@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\SampleProject\DALClassLibrary\obj\Debug\DALClassLibrary.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SampleProject\DALClassLibrary\obj\Debug\DALClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SampleProject\DALClassLibrary\bin\Debug\DALClassLibrary.dll
+C:\Users\DELL\source\repos\SampleProject\DALClassLibrary\bin\Debug\DALClassLibrary.pdb
+C:\Users\DELL\source\repos\SampleProject\DALClassLibrary\obj\Debug\DALClassLibrary.dll
+C:\Users\DELL\source\repos\SampleProject\DALClassLibrary\obj\Debug\DALClassLibrary.pdb
